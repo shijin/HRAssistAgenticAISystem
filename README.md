@@ -39,9 +39,13 @@ Add the following configuration to your claude_desktop_config.json file:
 - Click on the `+` icon and select the `Add from IDALS-hr-assist` option and send the request.
 - Fill the details for the new employee:
 
-<img src="resources\image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
+<img src="resources\image.JPG" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
 
 Alternatively, you can draft a custom prompt and let the agent take over.\
 
-**Video Walkthrough**
+**Video Walkthrough**  
 [Video Walkthrough](https://youtu.be/asHGecAoSpE)
+
+**Author**  
+Shijin Ramesh  
+[LinkedIn](https://www.linkedin.com/in/shijinramesh/) | [Portfolio](https://www.shijinramesh.co.in/)
