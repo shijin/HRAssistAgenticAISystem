@@ -4,7 +4,7 @@ HR Assist is an Agentic AI system designed to help HR teams automate routine wor
 
 In terms of technical architecture, for MCP client we use Claude Desktop and the code base here represents the MCP server with necessary tools that will be used by MCP client 
 
-# Setup Instructions
+### Setup Instructions
 
 To set up and run HR ASSIST, follow these steps:
 
@@ -41,4 +41,7 @@ Add the following configuration to your claude_desktop_config.json file:
 
 <img src="resources\image.jpg" alt="Claude desktop prompt with fields" style="width:auto;height:300px;padding-left:30px">
 
-Alternatively, you can draft a custom prompt and let the agent take over.
+Alternatively, you can draft a custom prompt and let the agent take over.\
+
+**Video Walkthrough**
+[Video Walkthrough](https://youtu.be/asHGecAoSpE)
